@@ -1,0 +1,7 @@
+de\hlasta\moviefiles\moviefiles\MoviefilesApplication.class
+de\hlasta\moviefiles\moviefiles\ressource\MovieRessource.class
+de\hlasta\moviefiles\moviefiles\persistence\MovieEntity.class
+de\hlasta\moviefiles\moviefiles\model\Movie.class
+de\hlasta\moviefiles\moviefiles\model\MovieTypes.class
+de\hlasta\moviefiles\moviefiles\model\LocalFile.class
+de\hlasta\moviefiles\moviefiles\model\Person.class
